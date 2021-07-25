@@ -1,3 +1,4 @@
 # Library-Management-System
 
-Its a Python project where students can borrow and erturn books from a list of books.
+It is a basic CLI program that simulates as a library book data management system.
+
